@@ -1,1 +1,4 @@
-This example includes a simple inventory and playbook for Ansible and a Jenkins job
+ansible-examples
+================
+
+Example Playbooks for use with Ansible
